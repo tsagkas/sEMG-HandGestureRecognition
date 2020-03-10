@@ -49,12 +49,11 @@ a picture of the hand-gesture that had to be performed.
 ## Real-time Hand Gesture Recognition
 By training our CNN with sEMG recordings from the MyoUP dataset, we managed to develop a real-time hand gesture recognition software. 
 
+### YouTube Demo:
 [![](http://img.youtube.com/vi/w98PkUeSu20/0.jpg)](http://www.youtube.com/watch?v=w98PkUeSu20)
 
 ## Citation
 N. Tsagkas, P. Tsinganos and A. Skodras, "On the Use of Deeper CNNs in Hand Gesture Recognition Based on sEMG Signals," 2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA), PATRAS, Greece, 2019, pp. 1-4.
 doi: 10.1109/IISA.2019.8900709
-
-keywords: {convolutional neural nets;electromyography;gesture recognition;image classification;learning (artificial intelligence);surface electromyography signals;sEMG recordings;CNNs;hand gesture recognition;sEMG signals;deep learning methods;convolutional neural network architecture;hand-gestures classification;Deep Learning;surface electromyography;sEMG;Convolutional Neural Networks;CNN;hand gesture recognition;classification;database;data acquisition;signal processing},
 
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8900709&isnumber=8900660
