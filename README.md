@@ -47,7 +47,7 @@ The sEMG was visible to the subject on a screen along with
 a picture of the hand-gesture that had to be performed.
 
 ### Download from:
-http://www.ece.upatras.gr/skodras/index.php?id=research
+https://github.com/TheCodeChugger/MyoUP
 
 ## Real-time Hand Gesture Recognition
 By training our CNN with sEMG recordings from the MyoUP dataset, we managed to develop a real-time hand gesture recognition software. 
