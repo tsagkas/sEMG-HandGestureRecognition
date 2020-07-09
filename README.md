@@ -1,6 +1,6 @@
 # Hand Gesture Recognition via sEMG signals with CNNs
 
-## Abstract
+<h2> Abstract </h2>
 In the past few years, a great interest for the
 classification of hand gestures with Deep Learning methods
 based on surface electromyography (sEMG) signals has been
@@ -18,7 +18,10 @@ commercial device (Myo Armband) was substantially higher
 (approximately 24%) than a similar benchmark dataset
 recorded with the same device.
 
-## MyoUP dataset
+<hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
+
+<h2> MyoUP dataset </h2>
+
 In order to contribute to the acquisition of sEMG data,
 particularly from devices that do not require professional
 calibration, we developed a sizeable sEMG dataset. Our
@@ -46,16 +49,22 @@ and the device would detect the sEMG signals accurately.
 The sEMG was visible to the subject on a screen along with
 a picture of the hand-gesture that had to be performed.
 
-### Download from:
+<hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
+ 
+<h3> Download from: </h3>
 https://github.com/tsagkas/MyoUP_dataset
 
-## Real-time Hand Gesture Recognition
+<hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
+
+<h2> Real-time Hand Gesture Recognition </h2>
 By training our CNN with sEMG recordings from the MyoUP dataset, we managed to develop a real-time hand gesture recognition software. 
 
-### YouTube Demo:
+<h3> YouTube Demo: </h3>
 [![](http://img.youtube.com/vi/w98PkUeSu20/0.jpg)](http://www.youtube.com/watch?v=w98PkUeSu20)
 
-## Citation
+<hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
+
+<h2> Citation </h2>
 N. Tsagkas, P. Tsinganos and A. Skodras, "On the Use of Deeper CNNs in Hand Gesture Recognition Based on sEMG Signals," 2019 10th International Conference on Information, Intelligence, Systems and Applications (IISA), PATRAS, Greece, 2019, pp. 1-4.
 doi: 10.1109/IISA.2019.8900709
 
